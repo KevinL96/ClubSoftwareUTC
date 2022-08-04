@@ -1,3 +1,7 @@
+[submodule "ClubSoftwareUTC"]
+	path = ClubSoftwareUTC
+	url = https://github.com/KevinL96/ClubSoftwareUTC.git
+
 [submodule "Backend/backend"]
 	path = Backend/backend
 	url = https://github.com/KevinL96/ClubSoftwareUTC.git
